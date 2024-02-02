@@ -1,0 +1,48 @@
+body {
+    font: normal 15pt Arial;
+    margin: 0;
+    padding: 0;
+    background-image: url('intelectus.png');
+    background-size: cover; /* Para cobrir todo o fundo */
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; /* Garante que a imagem de fundo cubra a tela inteira */
+    
+    
+}
+header {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    width: 400px;
+    margin: auto;
+    border-radius: 10px;
+}
+section{
+    background: rgba(255, 255, 255, 0.719);
+    width: 400px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.432);
+}
+div{
+    text-align: center;
+}
+input#but{
+    border-radius: 10px;
+}
+video#video {
+    width: 400px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+h1 {
+    color: black; /* define a cor do texto principal */
+    text-shadow: 3px 3px 0 white, -1px -1px 0 white, 1px -1px 0 white, -1px 1px 0 white; /* cria uma sombra branca ao redor do texto */
+}
+footer{
+    text-align: center;
+    font-style: italic;
+}
+  
+  
